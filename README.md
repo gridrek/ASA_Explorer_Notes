@@ -5,5 +5,6 @@ find the **GameUserSettings.ini** file in:
 
 and add the lines of code from the **GameUserSettings.ini** under:  
 **[/Script/ShooterGame.ShooterGameUserSettings]**  
+
 ![image](https://github.com/gridrek/ASA_Explorer_Notes/assets/75325069/eccb79b9-f973-423a-aaba-ea03245d2191)
 

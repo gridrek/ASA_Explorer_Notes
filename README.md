@@ -4,3 +4,4 @@ find the **GameUserSettings.ini** file in:
 **\Steam\steamapps\common\ARK Survival Ascended\ShooterGame\Saved\Config\Windows**  
 and add the lines of code from the **GameUserSettings.ini** under:  
 **[/Script/ShooterGame.ShooterGameUserSettings]**  
+![Uploading image.png…]()
